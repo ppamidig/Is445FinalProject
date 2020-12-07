@@ -5,5 +5,4 @@ ipyleaflet
 numpy
 ipywidgets
 fiona
-json
 Ipython
